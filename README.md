@@ -10,6 +10,16 @@ Built with scalability, security, and high performance in mind, this tool is tar
 
 ---
 
+## 🖥️ Live System Demonstration
+
+Here is a full screen-recording showing File Magic Pro dynamically parsing spreadsheets, documents, generating interactive data tables, filtering transactions, and exporting clean results in real time:
+
+https://github.com/user-attachments/assets/c6c39f1c-9dfd-4a18-971c-5290b07b1d12
+
+*(Note: If the video player above does not load, you can find the raw video file inside the `/assets` directory of this repository).*
+
+---
+
 ## 🔒 Intellectual Property & Source Code Access
 > [!IMPORTANT]
 > To protect proprietary business logic and the parsing engine configuration, the full source code for this application is hosted in a **Private Repository**. 
@@ -33,7 +43,7 @@ Built with scalability, security, and high performance in mind, this tool is tar
 This public repository serves as a **functional showcase and testing hub** for the File Magic Pro utility. It contains:
 1.  [بيانات_المبيعات_نموذجية.xlsx](./بيانات_المبيعات_نموذجية.xlsx) — A standardized sales database to test the Excel parser.
 2.  [تقرير_المبيعات_نموذجي.docx](./تقرير_المبيعات_نموذجي.docx) — A text-heavy business document to test the Word parser.
-3.  `assets/` — Folder for screenshots and visual demonstrations of the system.
+3.  `assets/demo_video.mp4` — High-definition screen recording demonstrating full application usage and speed.
 
 ---
 
