@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/cafd9a6a-bcd8-4546-b45e-7e404e840545
+
 # File Magic Pro ✨ — Smart Multi-Format Business Data Engine
 
 File Magic Pro is a highly optimized, fully client-side business utility designed to parse, normalize, and visualize raw structured data across **9+ corporate file formats**. 
