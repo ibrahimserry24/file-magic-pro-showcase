@@ -14,7 +14,7 @@ Built with scalability, security, and high performance in mind, this tool is tar
 
 Here is a full screen-recording showing File Magic Pro dynamically parsing spreadsheets, documents, generating interactive data tables, filtering transactions, and exporting clean results in real time:
 
-![File Magic Pro Demo](assets/demo_video.mp4)
+<video src="assets/demo_video.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ---
 
